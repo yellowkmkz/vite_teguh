@@ -1,10 +1,9 @@
-const Aboutus =() =>{
-    return(
-        <>
-        Ini Halaman About us
-        </>
-
-    )
+const AboutUs = () => {
+  return (
+    <>
+      INI HALAMAN ABOUT US
+    </>
+  )
 }
 
-export default Aboutus
+export default AboutUs

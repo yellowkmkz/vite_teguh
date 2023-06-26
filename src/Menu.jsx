@@ -1,10 +1,9 @@
-const Menu =() =>{
-    return(
-        <>
-        Ini Halaman Menu
-        </>
-
-    )
+const Menu = () => {
+  return (
+    <>
+      INI HALAMAN MENU
+    </>
+  )
 }
 
-export default Menu
+export default Menu
