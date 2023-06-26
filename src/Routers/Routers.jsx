@@ -11,7 +11,7 @@ export default function Routers () {
         <Route path="/" element={<App  />} />
         <Route path="/menu" element={<Menu  />} />
         <Route path="/order" element={<Order  />} />
-        <Route path="/aboutus" element={<AboutUs  />} />
+        <Route path="/AboutUs" element={<AboutUs  />} />
       </Routes>
     </BrowserRouter>
   )
