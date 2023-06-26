@@ -3,6 +3,7 @@ import App from "../App";
 import Menu from "../Menu";
 import Order from "../Order";
 import AboutUs from "../Aboutus";
+// import AboutUs from "../AboutUs";
 
 export default function Routers () {
   return (
@@ -12,6 +13,7 @@ export default function Routers () {
         <Route path="/menu" element={<Menu  />} />
         <Route path="/order" element={<Order  />} />
         <Route path="/aboutus" element={<AboutUs  />} />
+        {/* <Route path="/aboutus" element={<AboutUs  />} /> */}
       </Routes>
     </BrowserRouter>
   )
