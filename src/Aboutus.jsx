@@ -1,7 +1,7 @@
 const AboutUs = () => {
   return (
     <>
-      INI HALAMAN ABOUT US
+      INI HALAMAN ABOUT
     </>
   )
 }
